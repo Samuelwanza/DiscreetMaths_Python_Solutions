@@ -1,2 +1,2 @@
 # test-repo
-This is a git setup session
+Today is on a thursday and thus we have one more day to the weekend.
